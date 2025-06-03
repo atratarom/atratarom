@@ -60,7 +60,7 @@ Here are a few projects I’m working on or planning to build:
 
 Feel free to reach out:  
 📧 [kw30112001@gmail.com]  
-🔗 [https://wa.me/+254799225988]  
+🪀 [https://wa.me/+254799225988]  
 🌍 Portfolio [https://github.com/atratarom/atratarom/blob/main/Kelvin/index.html]
 
 ---
