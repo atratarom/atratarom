@@ -39,7 +39,7 @@ I enjoy solving real-world problems through secure, efficient, and user-centered
 
 ## 📚 Projects
 
-Here are a few projects I’m working on or planning to build:
+Here are a few projects I’m working on and to build:
 
 - 🔐 **Password Strength Checker** – A simple tool to analyze password strength and suggest improvements.
 - 🚗 **Vehicle Route Tracking System** – A real-time tracking system with route optimization (GraphHopper API).
