@@ -49,6 +49,16 @@ Here are a few projects I’m working on and to build:
 
 ---
 
+## HACK THE BOX
+Machine:  [https://academy.hackthebox.com/achievement/badge/2158a1c8-8d5d-11f0-9254-bea50ffe6cb4] 
+Objective:  
+Process:
+   • Revelation/Info gathering  
+   • Key exploits or techniques used  
+   • Final resolution or flag  
+   • Lessons learned
+
+
 ## 📈 GitHub Stats
 
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atratarom&show_icons=true&theme=radical)
