@@ -46,6 +46,35 @@ Here are a few projects I’m working on and to build:
 - 🐱 **Over the wire ** - Bandit Level 0 to ...
 ---
 
+## 🏆 CTF & Security Challenges
+
+**OverTheWire — Bandit**  
+Solved levels 0 → 6 (Linux CLI, file forensics, permissions, `find`, `grep`, `strings`, `stat`).  
+`Skills:` `bash` · `ssh` · `forensics` · `command-line` · `text-processing`
+
+![Bandit solved](https://img.shields.io/badge/OverTheWire--Bandit-Levels%200%E2%86%926-blue)
+
+# OverTheWire - Bandit Walkthrough
+
+**Author:** Kelvin (wambua kelvin)  
+**Solved:** Levels 0 → 6
+
+## Summary
+Short summary: what Bandit is, why you solved it, what you learned (Linux basics, ssh, file discovery, text tools).
+
+## What I used
+- `ssh`, `cat`, `ls`, `find`, `file`, `strings`, `grep`, `stat`
+- Shell scripting for automation (optional)
+
+## Walkthrough
+### Level 0 → 1
+```- Command used:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+# password: bandit0
+cat readme
+```
+## Level 1 → 2
+
 
 
 ## 📈 GitHub Stats
