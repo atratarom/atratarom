@@ -43,20 +43,9 @@ Here are a few projects I’m working on and to build:
 
 - 🔐 **Password Strength Checker** – A simple tool to analyze password strength and suggest improvements.
 - 🚗 **Vehicle Route Tracking System** – A real-time tracking system with route optimization (GraphHopper API).
-- 🎨 **Portfolio Website** – A clean, responsive personal site to showcase my work (coming soon!).
-- 🌐 **Subnet Calculator** – Helps calculate IP ranges, subnets, and network info.
-- 🛡️ **Wireshark Analysis Logs** – Educational repo showcasing captured and analyzed packets.
-
+- 🐱 **Over the wire ** - Bandit Level 0 to ...
 ---
 
-## HACK THE BOX
-Machine:  [https://academy.hackthebox.com/achievement/badge/2158a1c8-8d5d-11f0-9254-bea50ffe6cb4] 
-Objective:  
-Process:
-   • Revelation/Info gathering  
-   • Key exploits or techniques used  
-   • Final resolution or flag  
-   • Lessons learned
 
 
 ## 📈 GitHub Stats
@@ -71,7 +60,6 @@ Process:
 Feel free to reach out:  
 📧 [kw30112001@gmail.com]  
 🪀 [https://wa.me/+254799225988]  
-🌍 Portfolio [#############]
 
 ---
 
