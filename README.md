@@ -60,21 +60,29 @@ Solved levels 0 → 6 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 **Solved:** Levels 0 → 6
 
 ## Summary
-Short summary: what Bandit is, why you solved it, what you learned (Linux basics, ssh, file discovery, text tools).
+OverTheWire’s “Bandit” is a Linux/terminal-based CTF that teaches command-line skills. I solved levels 0 through 6, covering topics like file permissions, hidden files, special filenames, and command-line utilities.
 
-## What I used
+## Tools and commands
 - `ssh`, `cat`, `ls`, `find`, `file`, `strings`, `grep`, `stat`
-- Shell scripting for automation (optional)
+- Secure Shell scripting for automation (optional)
 
-## Walkthrough
+## Walkthrough Highlights(Tricks)\
 ### Level 0 → 1
 ```- Command used:
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 # password: bandit0
 cat readme
 ```
-## Level 1 → 2
+### Level 1 → 2
+``` 
+cat ./-    # using `./` to prevent interpretation as stdin  
 
+```
+### Level 2 → 3
+```
+cat "spaces in this filename"  # or escape spaces
+
+```
 
 
 ## 📈 GitHub Stats
