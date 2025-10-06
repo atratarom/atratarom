@@ -75,13 +75,36 @@ cat readme
 ```
 ### Level 1 → 2
 ``` 
-cat ./-    # using `./` to prevent interpretation as stdin  
+cat ./-    # using `./` to prevent interpretation as stdin
+Treat the '-' as a file 
 
 ```
 ### Level 2 → 3
 ```
 cat "spaces in this filename"  # or escape spaces
+Treat the name of the file as one name not a command;
+   - adding same initials as the name starts (... ...spaces)
+   - adding a backword slash after every word (spaces\ in\ this\ file)
+   - using quotation marks on the whole file name ("spaces in this filename")
 
+```
+### Level 3 → 4
+```
+Show hiden files by command; ls -a
+ 
+```
+### Level 4 → 5
+```
+On a bulky directory with many files with different formats, we just use command;
+  file ./*
+This commnd showcases files with thier format and size
+
+```
+### Level 5 → 6
+```
+use find command to check for a specific file since the directory has big number of the files and directories
+find . type -f -size <size>
+find ./ -size <size>
 ```
 
 
