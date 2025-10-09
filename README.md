@@ -50,9 +50,9 @@ Here are a few projects I’m working on and to build:
 
 **OverTheWire — Bandit**  
 [![Bandit Walkthrough](https://img.shields.io/badge/Bandit-Levels%200%E2%86%929%2B-green)](https://overthewire.org/wargames/bandit/)
-
 ![Bandit solved](https://img.shields.io/badge/OverTheWire--Bandit-Levels%200%E2%86%929-blue)
 
+[Go to walk through](https://github.com/atratarom/overthewire-bandit)
 
 Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `strings`, `stat`).  
 `Skills:` `bash` · `ssh` · `forensics` · `command-line` · `text-processing`
