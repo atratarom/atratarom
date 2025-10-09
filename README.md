@@ -49,7 +49,7 @@ Here are a few projects I’m working on and to build:
 ## 🏆 CTF & Security Challenges
 
 **OverTheWire — Bandit**  
-[![Bandit Walkthrough](https://img.shields.io/badge/Bandit-Levels%200%E2%86%926%2B-green)](https://overthewire.org/wargames/bandit/)
+[![Bandit Walkthrough](https://img.shields.io/badge/Bandit-Levels%200%E2%86%929%2B-green)](https://overthewire.org/wargames/bandit/)
 Solved levels 0 → 6 (Linux CLI, file forensics, permissions, `find`, `grep`, `strings`, `stat`).  
 `Skills:` `bash` · `ssh` · `forensics` · `command-line` · `text-processing`
 
