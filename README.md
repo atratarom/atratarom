@@ -49,6 +49,7 @@ Here are a few projects I’m working on and to build:
 ## 🏆 CTF & Security Challenges
 
 **OverTheWire — Bandit**  
+[![Bandit Walkthrough](https://img.shields.io/badge/Bandit-Levels%200%E2%86%926%2B-green)](https://overthewire.org/wargames/bandit/)
 Solved levels 0 → 6 (Linux CLI, file forensics, permissions, `find`, `grep`, `strings`, `stat`).  
 `Skills:` `bash` · `ssh` · `forensics` · `command-line` · `text-processing`
 
@@ -59,53 +60,6 @@ Solved levels 0 → 6 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 **Author:** Kelvin (wambua kelvin)  
 **Solved:** Levels 0 → 6
 
-## Summary
-OverTheWire’s “Bandit” is a Linux/terminal-based CTF that teaches command-line skills. I solved levels 0 through 6, covering topics like file permissions, hidden files, special filenames, and command-line utilities.
-
-## Tools and commands
-- `ssh`, `cat`, `ls`, `find`, `file`, `strings`, `grep`, `stat`
-- Secure Shell scripting for automation (optional)
-
-## Walkthrough Highlights(Tricks)\
-### Level 0 → 1
-```- Command used:
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-# password: bandit0
-cat readme
-```
-### Level 1 → 2
-``` 
-cat ./-    # using `./` to prevent interpretation as stdin
-Treat the '-' as a file 
-
-```
-### Level 2 → 3
-```
-cat "spaces in this filename"  # or escape spaces
-Treat the name of the file as one name not a command;
-   - adding same initials as the name starts (... ...spaces)
-   - adding a backword slash after every word (spaces\ in\ this\ file)
-   - using quotation marks on the whole file name ("spaces in this filename")
-
-```
-### Level 3 → 4
-```
-Show hiden files by command; ls -a
- 
-```
-### Level 4 → 5
-```
-On a bulky directory with many files with different formats, we just use command;
-  file ./*
-This commnd showcases files with thier format and size
-
-```
-### Level 5 → 6
-```
-use find command to check for a specific file since the directory has big number of the files and directories
-find . type -f -size <size>
-find ./ -size <size>
-```
 
 
 ## 📈 GitHub Stats
