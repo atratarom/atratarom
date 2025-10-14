@@ -43,7 +43,7 @@ Here are a few projects I’m working on and to build:
 
 - 🔐 **Password Strength Checker** – A simple tool to analyze password strength and suggest improvements.
 - 🚗 **Vehicle Route Tracking System** – A real-time tracking system with route optimization (GraphHopper API).
-- 🐱 **Over the wire ** - Bandit Level 0 to ...
+- 🐱 **Over the wire** - Bandit Level 0 to ...
 ---
 
 ## 🏆 CTF & Security Challenges
@@ -61,7 +61,7 @@ Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 # OverTheWire - Bandit Walkthrough
 
 **Author:** Kelvin (wambua kelvin)  
-**Solved:** Levels 0 → 6
+**Solved:** Levels 0 → 9
 
 
 
@@ -92,17 +92,6 @@ Click any badge to view the achievement page.
 
 ---
 
-### 📨 Connect
-<p align="center">
-  <a href="https://github.com/atratarom">
-    <img src="https://skillicons.dev/icons?i=github" width="40">
-  </a>
-  <a href="https://www.hackthebox.com/">
-    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-icon.png" width="40" alt="HackTheBox">
-  </a>
-</p>
-
----
 
 
 ## 📫 Let's Connect
