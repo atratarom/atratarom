@@ -81,6 +81,77 @@ Click any badge to view the achievement page.
 [![HTB Academy Achievement 15](https://img.shields.io/badge/HTB-Academy_Achievement_15-orange?style=for-the-badge)](https://academy.hackthebox.com/achievement/2095434/15)
 
 ---
+<!-- Profile header -->
+<h1 align="center">👋 Hi, I'm Kelvin (atratarom)</h1>
+
+<p align="center">
+  <a href="https://github.com/atratarom">
+    <img src="https://img.shields.io/github/followers/atratarom?label=Followers&style=for-the-badge&color=green" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/atratarom?tab=repositories">
+    <img src="https://img.shields.io/github/stars/atratarom?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars">
+  </a>
+</p>
+
+---
+
+### ⚔️ Hack The Box Achievements
+
+<p align="center">
+  <!-- HTB Machines -->
+  <a href="https://labs.hackthebox.com/achievement/machine/2509681/393" title="HackTheBox Machine 393">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-icon.png" width="40" alt="HTB">
+  </a>
+  <a href="https://labs.hackthebox.com/achievement/machine/2509681/472" title="HackTheBox Machine 472">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-icon.png" width="40" alt="HTB">
+  </a>
+  <a href="https://labs.hackthebox.com/achievement/machine/2509681/395" title="HackTheBox Machine 395">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-icon.png" width="40" alt="HTB">
+  </a>
+</p>
+
+<p align="center">
+  <!-- HTB CTF -->
+  <a href="https://ctf.hackthebox.com/event/details/ctf-try-out-1434" title="HackTheBox CTF Try-Out">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-ctf.png" width="45" alt="CTF Badge">
+  </a>
+
+  <!-- HTB Academy -->
+  <a href="https://academy.hackthebox.com/achievement/2095434/15" title="HackTheBox Academy Achievement">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-academy.png" width="45" alt="HTB Academy">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atratarom&show_icons=true&count_private=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atratarom&layout=compact&theme=tokyonight" height="180">
+</p>
+
+---
+
+### 💡 Current Focus
+- 🧠 Ethical Hacking & Pentesting (HackTheBox, CTFs)
+- 🚗 Vehicle Route Tracking System (GraphHopper API + Live Traffic)
+- 🧰 Tools: Kali Linux, Burp Suite, Wireshark, JavaScript, PostgreSQL
+- 🌱 Always learning, always hacking!
+
+---
+
+### 📨 Connect
+<p align="center">
+  <a href="https://github.com/atratarom">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://raw.githubusercontent.com/atratarom/atratarom/main/assets/htb-icon.png" width="40" alt="HackTheBox">
+  </a>
+</p>
+
+---
 
 
 ## 📫 Let's Connect
