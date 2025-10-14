@@ -63,21 +63,7 @@ Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 **Author:** Kelvin (wambua kelvin)  
 **Solved:** Levels 0 → 6
 
-## Achievements
-<!-- Followers -->
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge)
 
-<!-- Stars across all repos (approx using a totals service) -->
-![Total Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Repo%20Stars&style=for-the-badge)
-
-<!-- Custom achievement badge -->
-![Achievement](https://img.shields.io/badge/Achievement-CTF%20Master-brightgreen?style=for-the-badge)
-
-
-## 📈 GitHub Stats
-
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atratarom&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atratarom&layout=compact&theme=radical)
 
 ---
 
