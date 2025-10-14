@@ -67,15 +67,6 @@ Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 
 ---
 
-<!-- Profile header -->
-# Hi, I'm Kelvin (atratarom) 👋
-
-[![Followers](https://img.shields.io/github/followers/atratarom?label=Followers&style=for-the-badge)](https://github.com/atratarom)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atratarom&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atratarom&layout=compact)
-
----
 
 ## 🏆 HackTheBox & CTF Achievements
 
@@ -89,18 +80,6 @@ Click any badge to view the achievement page.
 [![HTB Academy Achievement 15](https://img.shields.io/badge/HTB-Academy_Achievement_15-orange?style=for-the-badge)](https://academy.hackthebox.com/achievement/2095434/15)
 
 ---
-
-## 🔧 Projects & Focus
-- 🔭 Building: Vehicle Route Tracking System  
-- 🌱 Learning: Ethical hacking, GraphHopper API, live traffic integration  
-- 🛠️ Tools: Kali Linux, Burp Suite, Wireshark, JavaScript, PostgreSQL
-
----
-
-## 📫 Contact
-- GitHub: [atratarom](https://github.com/atratarom)  
-- Want help formatting or adding more badges? Ping me here and I’ll craft them.
-
 
 
 ## 📫 Let's Connect
