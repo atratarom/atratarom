@@ -73,10 +73,11 @@ Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `
 Click any badge to view the achievement page.
 
 [![HTB Machine 393](https://img.shields.io/badge/HTB-Machine_393-blue?style=for-the-badge)](https://labs.hackthebox.com/achievement/machine/2509681/393)
+
 [![HTB Machine 472](https://img.shields.io/badge/HTB-Machine_472-blue?style=for-the-badge)](https://labs.hackthebox.com/achievement/machine/2509681/472)
+
 [![HTB Machine 395](https://img.shields.io/badge/HTB-Machine_395-blue?style=for-the-badge)](https://labs.hackthebox.com/achievement/machine/2509681/395)
 
-[![HTB CTF Try-Out 1434](https://img.shields.io/badge/HTB-CTF_Try-Out_1434-red?style=for-the-badge)](https://ctf.hackthebox.com/event/details/ctf-try-out-1434)
 [![HTB Academy Achievement 15](https://img.shields.io/badge/HTB-Academy_Achievement_15-orange?style=for-the-badge)](https://academy.hackthebox.com/achievement/2095434/15)
 
 ---
