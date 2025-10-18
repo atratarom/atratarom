@@ -57,7 +57,7 @@ Here are a few projects I’m working on and to build:
 
 ## 🏆 CTF & Security Challenges
 
-**OverTheWire — Bandit**  
+### OverTheWire — Bandit
 [![Bandit Walkthrough](https://img.shields.io/badge/Bandit-Levels%200%E2%86%929%2B-green)](https://overthewire.org/wargames/bandit/)
 ![Bandit solved](https://img.shields.io/badge/OverTheWire--Bandit-Levels%200%E2%86%929-blue)
 
