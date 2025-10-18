@@ -32,8 +32,17 @@ I enjoy solving real-world problems through secure, efficient, and user-centered
 - **Database**: MySQL, XAMPP  
 - **Other Tools**: Git, GitHub, VS Code
 
+---
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 💡 Current Focus
+- 🧠 Ethical Hacking & Pentesting (HackTheBox, CTFs)
+- 🚗 Vehicle Route Tracking System (GraphHopper API + Live Traffic)
+- 🧰 Tools: Kali Linux, Burp Suite, Wireshark, JavaScript, PostgreSQL
+- 🌱 Always learning, always hacking!
 
 ---
 
@@ -83,16 +92,6 @@ Click any badge to view the achievement page.
 [![HTB Academy Achievement 15](https://img.shields.io/badge/HTB-Academy_Achievement_15-orange?style=for-the-badge)](https://academy.hackthebox.com/achievement/2095434/15)
 
 ---
-
-### 💡 Current Focus
-- 🧠 Ethical Hacking & Pentesting (HackTheBox, CTFs)
-- 🚗 Vehicle Route Tracking System (GraphHopper API + Live Traffic)
-- 🧰 Tools: Kali Linux, Burp Suite, Wireshark, JavaScript, PostgreSQL
-- 🌱 Always learning, always hacking!
-
----
-
-
 
 ## 📫 Let's Connect
 
