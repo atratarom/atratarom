@@ -38,7 +38,7 @@ I enjoy solving real-world problems through secure, efficient, and user-centered
 
 ---
 
-### 💡 Current Focus
+## 💡 Current Focus
 - 🧠 Ethical Hacking & Pentesting (HackTheBox, CTFs)
 - 🚗 Vehicle Route Tracking System (GraphHopper API + Live Traffic)
 - 🧰 Tools: Kali Linux, Burp Suite, Wireshark, JavaScript, PostgreSQL
@@ -66,13 +66,8 @@ Here are a few projects I’m working on and to build:
 Solved levels 0 → 9 (Linux CLI, file forensics, permissions, `find`, `grep`, `strings`, `stat`).  
 `Skills:` `bash` · `ssh` · `forensics` · `command-line` · `text-processing`
 
-
-# OverTheWire - Bandit Walkthrough
-
 **Author:** Kelvin (wambua kelvin)  
 **Solved:** Levels 0 → 9
-
-
 
 ---
 
