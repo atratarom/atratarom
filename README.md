@@ -5,22 +5,21 @@
 🔐 Cybersecurity Enthusiast | 🌐 Networking Student | 🎨 Aspiring UI/UX Designer  
 
 📚 Information Technology student
-🚀 I'm passionate about building secure, efficient, and user-friendly digital solutions.  
-📚 Currently improving my skills in ethical hacking, responsive design, and real-time tracking systems.  
+🚀 I'm passionate about building secure, efficient and user-friendly digital solutions.  
+📚 Currently improving my skills in ethical hacking, responsive design and real-time tracking systems.  
 🔧 Tools I use: 
           Kali Linux, 
           Wireshark, 
           MySQL, 
-          XAMPP, 
-          Figma, 
+          XAMPP,
           HTML/CSS/JS
 
 
 ## 🚀 About Me
 
-I'm a passionate IT student with strong interests in cybersecurity, computer networking, and user interface/user experience design. I'm currently awaiting graduation in November and actively building my technical skills through practical projects.
+I'm a passionate IT student with strong interests in cybersecurity, computer networking and user interface/user experience design. I'm currently building my technical skills through practical projects.
 
-I enjoy solving real-world problems through secure, efficient, and user-centered solutions. My current focus is on developing secure web systems, exploring ethical hacking, and improving the visual and functional quality of digital interfaces.
+I enjoy solving real-world problems through secure, efficient and user-centered solutions. My current focus is exploring ethical hacking and improving the visual, functional quality of digital interfaces.
 
 ---
 
@@ -28,7 +27,7 @@ I enjoy solving real-world problems through secure, efficient, and user-centered
 
 - **Languages**: HTML, CSS, JavaScript, Python  
 - **Cybersecurity Tools**: Kali Linux, Wireshark  
-- **Networking**: Cisco Packet Tracer, basic router/switch config   
+- **Networking**: Cisco Packet Tracer, router/switch config   
 - **Database**: MySQL, XAMPP  
 - **Other Tools**: Git, GitHub, VS Code
 
